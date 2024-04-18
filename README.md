@@ -19,7 +19,7 @@ Key Features:
 
 # Final Version
 
-To visit the website, [click here.](https://zoomclone.vercel.app)
+To visit the website, [click here.](https://zoomclone-ss.vercel.app)
 
 ### Cloning the repository
 
